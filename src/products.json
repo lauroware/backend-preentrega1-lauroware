@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "thumbnail": "ruta/de/imagen",
-    "stock": 10,
     "title": "Producto de prueba 1",
-    "price": 35,
     "description": "Este es un producto de prueba",
-    "code": "ABC2",
-    "category": "segunda"
+    "price": 300,
+    "thumbnail": "ruta/de/imagen",
+    "code": "ABC10",
+    "stock": 3,
+    "category": "primera"
   },
   {
     "id": 2,
